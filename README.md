@@ -38,7 +38,7 @@ A comprehensive guide to building successful startups from ideation to scale.
 
 The complete guide to finding problems worth solving, including:
 
-- **Quick Reference** - Comparison table of all methods
+- **[Quick Reference](resources/generate-ideas.md#quick-reference)** - Comparison table of all methods
 - **[The Mom Test Guide](resources/mom-test-guide.md)** - Customer conversation framework
 - **[Community Embedding Guide](resources/community-embedding.md)** - Build with communities
 - **[Idea Resources](resources/idea-resources.md)** - Tools, links, and reading list
