@@ -11,6 +11,7 @@ A comprehensive guide to building successful startups from ideation to scale.
 ### 2. Ideation and Opportunity
 
 - [How to Generate Ideas](#how-to-generate-ideas) ✅
+- [Market Research](#market-research) ✅
 
 ### 3. Validation
 
@@ -44,6 +45,18 @@ The complete guide to finding problems worth solving, including:
 - **[Idea Resources](resources/idea-resources.md)** - Tools, links, and reading list
 
 **Start here:** [How to Generate Ideas](resources/generate-ideas.md)
+
+## Market Research
+
+Systematic analysis to validate market opportunities and understand your competitive landscape:
+
+- **Market Sizing** - TAM/SAM/SOM analysis and opportunity assessment
+- **Competitive Analysis** - Direct/indirect competitors and positioning gaps
+- **Customer Interviews** - Voice-of-customer research and pain point validation
+- **Industry Reports** - Analyst insights and market trends
+- **Pricing Research** - Monetization models and willingness to pay
+
+**Deep dive:** [Complete Market Research Guide](resources/market-research.md)
 
 ---
 
