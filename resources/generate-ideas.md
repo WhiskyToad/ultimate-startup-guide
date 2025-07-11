@@ -10,8 +10,9 @@ Finding the right idea is crucial for startup success. Here are the most effecti
 | [Community Embedding](#community-embedding) | Finding new opportunities | High | Very High |
 | [Trend Research](#trend-research) | Timing-based ideas | Medium | Medium |
 | [Problem Mining](#problem-mining) | Quick idea generation | Low | Medium |
+| [Copy & Improve](#copy--improve) | Low-risk execution | Low | High |
 
-## 🔍 The Four Main Approaches
+## 🔍 The Five Main Approaches
 
 ### 1. Mom Test
 **Core Principle:** Ask questions that reveal real problems, not polite lies.
@@ -47,6 +48,21 @@ Finding the right idea is crucial for startup success. Here are the most effecti
 - Reddit: `site:reddit.com "is there a tool that"`
 - Twitter: "I wish there was a way to"
 - Product Hunt comments for feature requests
+
+### 5. Copy & Improve
+**Core Principle:** Find successful products and make them better for underserved niches or use cases.
+
+**Strategies:**
+- **Niche down** - Target a specific industry or user group
+- **Simplify** - Remove complexity and focus on core features
+- **Different USP** - Same problem, different approach or positioning
+- **Geographic** - Adapt successful products for different markets
+
+**How to Execute:**
+1. Find successful products in your space
+2. Read their reviews and complaints
+3. Identify gaps or frustrations
+4. Build a focused solution for those specific pain points
 
 ## 📚 Essential Resources
 
